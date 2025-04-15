@@ -1,5 +1,5 @@
 <script setup>
-import GameContainer from "./components/GameContainer.vue";
+  import GameContainer from './components/GameContainer.vue'
 </script>
 
 <template>
@@ -11,26 +11,26 @@ import GameContainer from "./components/GameContainer.vue";
 </template>
 
 <style>
-body {
-  margin: 0;
-  padding: 20px;
-  font-family: Arial, sans-serif;
-  background-color: #34495e;
-  color: #ecf0f1;
-}
+  body {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #34495e;
+    color: #ecf0f1;
+  }
 
-main {
-  max-width: 1000px;
-  margin: 0 auto;
-  text-align: center;
-}
+  main {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+  }
 
-h1 {
-  color: #3498db;
-  margin-bottom: 10px;
-}
+  h1 {
+    color: #3498db;
+    margin-bottom: 10px;
+  }
 
-p {
-  margin-bottom: 20px;
-}
+  p {
+    margin-bottom: 20px;
+  }
 </style>

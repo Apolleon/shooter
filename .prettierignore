@@ -1,0 +1,11 @@
+# Игнорировать зависимости
+node_modules
+dist
+
+# Игнорировать файлы конфигурации
+package-lock.json
+yarn.lock
+
+# Игнорировать общие файлы
+*.log
+.DS_Store 
